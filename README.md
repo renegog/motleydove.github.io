@@ -1,14 +1,14 @@
 # Rene Gannon-O'Gara
 This is a place for links to Rene Gannon-O'Gara's work
 
-## movie projects
+## movies
 [Donut](https://vimeo.com/745910792)
 2023, 62min
 
 [Catsitter](https://vimeo.com/231801456)
 2018, 7min
 
-## music projects
+## music
 [blue moon muzak](https://colmkil.bandcamp.com/album/blue-moon-muzak)
 2024
 
