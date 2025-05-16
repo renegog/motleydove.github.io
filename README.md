@@ -25,4 +25,4 @@ This is a place for links to Rene Gannon-O'Gara's work
 2020
 
 ## contact
-- email: gannonogara at gmail dot com
+email: gannonogara at gmail dot com
