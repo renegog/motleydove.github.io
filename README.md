@@ -1,7 +1,7 @@
 # Rene Gannon-O'Gara
-A writer, filmmaker, and musician from Los Angeles. 
-They are interested in ruptures; and romanticism. 
-This is a place for links to their work.
+A writer, filmmaker, and musician from Los Angeles.   
+They are interested in ruptures; and romanticism.   
+This is a place for links to their work.  
 
 ## movies
 [Donut](https://vimeo.com/745910792)
